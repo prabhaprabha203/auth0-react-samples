@@ -10,6 +10,6 @@ int main()
     if (LowercaseVowel || UppercaseVowel)
         printf("%c is a vowel", c);
     else
-        printf("%c is a constant", c);
+        printf("%c is a consonant", c);
     return 0;
 }
